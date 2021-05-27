@@ -8,12 +8,12 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<em> Want to know more about me? [Click here](https://kishanlal.tech/) </em>
+<em> Want to know more about me? [Click here](http://mhmdrameez.me/) </em>
 <em>
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Software Developer Intern at [Presidio](https://www.presidio.com/);
+- 👨🏽‍💻 I’m a Campus Ambassador Intern at [Entri](https://entri.me/);
 - 💼 I’m currently pursuing my pre final year of Bachelor's degree in Computer Science and Engineering at [TIST](https://tistcochin.edu.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
