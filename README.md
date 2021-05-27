@@ -50,7 +50,7 @@
 <!-- <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code> -->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
-### GitHub Stats
+<!-- ### GitHub Stats
 
 <p align="center">
   <a href = "https://github.com/kishan0725">
@@ -64,7 +64,7 @@
 <a href = "https://github.com/kishan0725">
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=kishan0725&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
-</p>
+</p> -->
 
 ### Follow me
 
