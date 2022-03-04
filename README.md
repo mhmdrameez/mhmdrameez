@@ -22,6 +22,8 @@
 <br/> 
 </em>
 
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdrameez&count_private=true&theme=dark&show_icons=true" alt="mhmdrameez" align='center' />
+
 ### Worked with 
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
@@ -52,7 +54,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdrameez&count_private=true&theme=dark&show_icons=true" alt="mhmdrameez" align='center' />
+
 
 <!-- ### GitHub Stats
 
