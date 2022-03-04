@@ -14,7 +14,7 @@
 **Talking about Personal Stuffs:**
 
 
-- 💼 I’m currently pursuing my pre final year of Bachelor's degree in Computer Science and Engineering at [TIST](https://tistcochin.edu.in/);
+- 💼 I’m currently pursuing my final year of Bachelor's degree in Computer Science and Engineering at [TIST](https://tistcochin.edu.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
