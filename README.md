@@ -52,7 +52,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Farzanfa&count_private=true&theme=dark&show_icons=true" alt="Farzanfa" align='center' />
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdrameez&count_private=true&theme=dark&show_icons=true" alt="mhmdrameez" align='center' />
 
 <!-- ### GitHub Stats
 
