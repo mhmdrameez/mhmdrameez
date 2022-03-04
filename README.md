@@ -50,6 +50,10 @@
 <!-- <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code> -->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Farzanfa&count_private=true&theme=dark&show_icons=true" alt="Farzanfa" align='center' />
+
 <!-- ### GitHub Stats
 
 <p align="center">
